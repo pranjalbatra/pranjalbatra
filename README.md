@@ -1,10 +1,10 @@
-# 💫 About Me:
+# 🌏  Hello World:
 
-Hi! My name is Pranjal Batra, and I love building tech driven businesses!
+My name is Pranjal Batra, and I love helping and building tech-driven businesses!
 
 ## 👨‍💻 What I'm working on these days
 
-I am building multiple tech-driven ventures across marketplaces, AI-powered consumer solutions, restaurant commerce systems, event-style platforms, and a custom software development company — while also exploring scalable opportunities in supply chain aggregation and healthcare manufacturing.
+I am building multiple ventures across different industries leveraging AI, AI-powered consumer solutions, restaurant commerce systems, event-style platforms, and running a custom software design & development agency.
 
 ---
 
@@ -16,7 +16,7 @@ I am building multiple tech-driven ventures across marketplaces, AI-powered cons
 - 🏗️ Scalable business models  
 - 💰 Recurring revenue ecosystems  
 
-As an entrepreneur, I focus on building systems — not just projects. I aim to balance strong cash flow with long-term enterprise value and defensible scale.
+As an entrepreneur, I focus on building systems! not just projects. I aim to balance strong cash flow with long-term enterprise value and defensible scale.
 
 ---
 
@@ -52,10 +52,6 @@ I’m actively working toward becoming fully AI-native in how I build, scale, an
 - Building tech-enabled businesses from scratch  
 
 ---
-
-## 🔥 Fun Fact
-
-I don’t just launch ideas — I engineer scalable ecosystems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranjalbatra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjalbatra22) 
