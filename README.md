@@ -1,5 +1,8 @@
 # 💫 About Me:
-## 👨‍💻 About Me
+
+Hi! My name is Pranjal Batra, and I love building tech driven businesses!
+
+## 👨‍💻 What I'm working on these days
 
 I am building multiple tech-driven ventures across marketplaces, AI-powered consumer solutions, restaurant commerce systems, event-style platforms, and a custom software development company — while also exploring scalable opportunities in supply chain aggregation and healthcare manufacturing.
 
