@@ -1,6 +1,58 @@
 # 💫 About Me:
-You’re building multiple tech-enabled ventures across marketplaces, AI-driven consumer utilities, restaurant commerce systems, event-style platforms, and a software services company, while also exploring supply chain aggregation and scalable healthcare manufacturing opportunities. You’re actively seeking collaboration in AI product development, automation systems, performance marketing, B2B digital models, and recurring-revenue SaaS ideas, especially those that combine strong cash flow with long-term scale. Right now, you’re looking for support with infrastructure decisions (cloud hosting, local model deployment, cost optimization), payment integrations, marketplace monetization, performance media planning, and structuring high-impact internship and KPI systems within your digital agency. You’re deeply learning about large language models, transformers, AI agents, RAG systems, and practical AI deployment while sharpening your marketing analytics and monetization strategy, alongside preparing for a high English proficiency score. If I were to challenge you, I’d ask which venture is your primary long-term bet, whether you’re optimizing for rapid income or enterprise value, and how aggressively you want to move into AI infrastructure versus applied AI solutions. A fun insight about you: you consistently pursue leverage-heavy ideas rather than small experiments, signaling that you’re not just building projects — you’re architecting scalable ecosystems.
+## 👨‍💻 About Me
 
+I am building multiple tech-driven ventures across marketplaces, AI-powered consumer solutions, restaurant commerce systems, event-style platforms, and a custom software development company — while also exploring scalable opportunities in supply chain aggregation and healthcare manufacturing.
+
+---
+
+## 🚀 What I Focus On
+
+- 💻 Tech-enabled platforms  
+- 🤖 AI-native product development  
+- 📈 Performance-driven growth systems  
+- 🏗️ Scalable business models  
+- 💰 Recurring revenue ecosystems  
+
+As an entrepreneur, I focus on building systems — not just projects. I aim to balance strong cash flow with long-term enterprise value and defensible scale.
+
+---
+
+## 🤝 What I’m Looking to Collaborate On
+
+- AI product development & automation systems  
+- B2B digital models with recurring revenue  
+- Performance marketing & growth architecture  
+- SaaS monetization strategy  
+- Tech + business ecosystem building  
+
+---
+
+## 📚 What I’m Currently Learning & Implementing
+
+- 🤖 Large Language Models (LLMs)  
+- ⚙️ Transformers & AI agents  
+- 🔎 RAG architectures  
+- ☁️ Cloud infrastructure & local model deployment  
+- 📊 KPI systems & growth analytics  
+- 🧠 Monetization and scaling frameworks  
+
+I’m actively working toward becoming fully AI-native in how I build, scale, and optimize businesses.
+
+---
+
+## 💬 Ask Me About
+
+- Startups & entrepreneurship  
+- SaaS and marketplace models  
+- AI integration in real businesses  
+- Growth strategy & performance marketing  
+- Building tech-enabled businesses from scratch  
+
+---
+
+## 🔥 Fun Fact
+
+I don’t just launch ideas — I engineer scalable ecosystems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranjalbatra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjalbatra22) 
